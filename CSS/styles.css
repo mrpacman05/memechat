@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .features-c {
-  width: 70%;
+  width: 80%;
 }
 
 .feature-text {
@@ -115,7 +115,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .testimonials-image {
   width: 70%;
-
+  margin-left: 30%;
 }
 
 .testimonials-text {
